@@ -8,11 +8,10 @@ interface NavigationItem {
 }
 
 const navigation: NavigationItem[] = [
-  { name: 'Home', href: '/', current: true },
-  { name: 'Services', href: '#services', current: false },
-  { name: 'About', href: '#about', current: false },
-  { name: 'Project', href: '#project', current: false },
-  { name: 'Help', href: '/', current: false },
+  { name: 'Product', href: '/', current: true },
+  { name: 'Strategy', href: '#services', current: false },
+  { name: 'Why Planbow', href: '#about', current: false },
+  { name: 'Global Teams', href: '#project', current: false },
 ]
 
 function classNames(...classes: string[]) {
