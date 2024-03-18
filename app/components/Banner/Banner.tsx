@@ -27,7 +27,7 @@ Watch Video                        </button>
                     </div>
 */}
 
-                    <Image src={'/assets/banner/dashboard.svg'} alt="banner-image" width={1200} height={598} />
+                    <Image src={'/assets/banner/dashboard.png'} alt="banner-image" width={1200} height={598} />
                 </div>
             </div>
         </main>
