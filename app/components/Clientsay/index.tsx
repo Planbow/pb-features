@@ -4,7 +4,7 @@ const Clientsay = () => {
     return (
         <div className="mx-auto max-w-2xl py-40 px-4s sm:px-6 lg:max-w-7xl lg:px-8">
             <div className="bg-image-what">
-                <h3 className='text-navyblue text-center text-4xl lg:text-6xl font-semibold'>Unlock Your Startup's Potential with Planbow's Strategic AI Solutions</h3>
+                <h3 className='text-navyblue text-center text-4xl lg:text-6xl font-semibold'>Unlock Your Startup&apos;s Potential with Planbow&apos;s Strategic AI Solutions</h3>
                 <h4 className="text-lg font-normal text-black text-center mt-4">Go fast with your ideation and validation,<br /> do more with Planbow</h4>
 
                 <div className="lg:relative">
