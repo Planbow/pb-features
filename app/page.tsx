@@ -7,6 +7,7 @@ import Why from './components/Why/index';
 import Network from './components/Network/index';
 import Clientsay from './components/Clientsay/index';
 import Newsletter from './components/Newsletter/Newsletter';
+import Contact from './components/Contact/contact';
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
         <Network />
         <Clientsay />
         <Newsletter />
+        <Contact/>
       </main>
       <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/21796752.js"></script>
     </div>
