@@ -60,9 +60,11 @@ const Signin = () => {
                                                     alt="Company"
                                                 />
                                                 <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900">
-Coming up !                                                </h2>
+                                             </h2>
                                             </div>
-           {/*
+
+                                            
+        
 
                                             <form className="mt-8 space-y-6" action="#" method="POST">
                                                 <input type="hidden" name="remember" defaultValue="true" />
@@ -129,11 +131,10 @@ Coming up !                                                </h2>
                                                     </button>
                                                 </div>
                                             </form>
-                                            */}
+                                        
 
                                         </div>
                                     </div>
-
 
                                     <div className="mt-4 flex justify-end">
                                         <button
@@ -148,8 +149,10 @@ Coming up !                                                </h2>
                             </Transition.Child>
                         </div>
                     </div>
+
                 </Dialog>
             </Transition>
+
         </>
     )
 }
