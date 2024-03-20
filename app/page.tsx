@@ -21,7 +21,6 @@ export default function Home() {
         <Network />
         <Clientsay />
         <Newsletter />
-        <Contact/>
       </main>
       <script type="text/javascript" id="hs-script-loader" async defer src="//js-na1.hs-scripts.com/21796752.js"></script>
     </div>
