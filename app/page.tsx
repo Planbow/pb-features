@@ -13,7 +13,7 @@ export default function Home() {
     <div>
       <main>
         <Banner />
-        {/* <Companies /> */}
+        <Companies />
         <Provide />
         <Buyers />
         <Why />
